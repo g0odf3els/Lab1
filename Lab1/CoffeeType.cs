@@ -1,4 +1,4 @@
-﻿namespace CoffeeMachineLib
+﻿namespace Lab1
 {
    public class CoffeeType
     {

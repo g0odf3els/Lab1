@@ -1,4 +1,4 @@
-﻿namespace CoffeeMachineLib
+﻿namespace Lab1
 {
     public class CoffeeMachine
     {
@@ -97,7 +97,7 @@
                 $"Coffee: [{_coffee}/{_maxCoffee}]\n" +
                 $"Milk:   [{_milk}/{_maxMilk}]\n" +
                 $"Water   [{_water}/{_maxWater}]\n" +
-                $"Suggar  [{_sugar}/{_maxSugar}]";
+                $"Suggar [{_sugar}/{_maxSugar}]";
         }
     }
 }
